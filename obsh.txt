@@ -1,0 +1,28 @@
+O文件的历元数为：2880
+Version: 3.040000
+Type: OBSERVATION DATA    M
+Approx Position XYZ: 2919785.712000, -5383745.067000, 1774604.692000
+Antenna: Delta H/E/N: 0.000000, 0.000000, 0.000000
+Number of Observation Types: 18
+Observation Type Number: 18
+Observation Type 1: C1C
+Observation Type 2: L1C
+Observation Type 3: D1C
+Observation Type 4: S1C
+Observation Type 5: C1W
+Observation Type 6: S1W
+Observation Type 7: C2W
+Observation Type 8: L2W
+Observation Type 9: D2W
+Observation Type 10: S2W
+Observation Type 11: C2L
+Observation Type 12: L2L
+Observation Type 13: D2L
+Observation Type 14: S2L
+Observation Type 15: C5Q
+Observation Type 16: L5Q
+Observation Type 17: D5Q
+Observation Type 18: S5Q
+Interval: 30.000000
+First Observation Time: 2023-9-20 0:0:0.000000
+Time System: GPS
